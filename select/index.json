@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "人間やめたいわ",
+  "base_artist": "雨良",
+  "createdAt": "2026-04-03T07:16:28.990712Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "人間やめたいわ",
+      "artist": "雨良",
+      "has_synced": false,
+      "path": "select/pl_01_人間やめたいわ_雨良.txt"
+    }
+  ]
+}
